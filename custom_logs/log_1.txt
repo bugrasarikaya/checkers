@@ -1,0 +1,36 @@
+An online course about Unity, was found on Patika [1] and it was decided to study.
+An online video playlist about Unity tutorial, was found on YouTube [2] and it was decided to watch.
+Watching process of the tutorial playlist which was decided to study, was completed but it was evaluated as an inadequate source.
+Another Unity tutorial was found on YouTube [3].
+While watching tutorial video, unknown "yield return" keyword was encountered and its usage was learned in another online video [4].
+Watching of tutorial video, was completed.
+Checkers game was thought as first simple Unity project.
+A silent video of coding checkers game, was watched [5].
+While studying Unity on Patika.dev, a homework project was encountered [6].
+For being prepared to homework project 2 videos about homework subject, were watched [7] [8].
+Unity Hub was downloaded from an official webpage [9] after selecting "Personal" plan on another official webpage [10].
+A video about signing up on Unity, was watched [11].
+I was learned that "Full Name" on signing form, is not required as real name, on wenpage [12] but the form was filled by writing real name.
+After installing Unity Hub, Unity Editor 2021.2.11f1 was downloaded.
+A video on YouTube [13], was watched for looking movement codes.
+After examining other tutorials in Patika Dev about Unity, it was understood that tutorials of Patika Dev, are not enough for learning Unity and its most important reason is that contents of the tutorials, are from other peoples's YouTube channels.
+Studying Unity on Patika Dev, was delayed to an unknown time.
+After delaying the studying process on Patika Dev, FLoor is Lava which was an empty game project for homework of Patika Dev, was deleted.
+Checkers game was decided as first simple Unity project.
+A video playlist about checkers game on Unity, was found on YouTube [14].
+Process of watching the video playlist, was completed.
+A local GitHub repository whose name is "checkers", was created by using GitHub Desktop and repository had Git ignore which is compatible to Unity.
+[1] https://app.patika.dev/paths/unity-learn-patikasi, 8 March 2022.
+[2] Yazılım Teknolojileri Akademisi, https://youtube.com/playlist?list=PLi1BmHvgBkxK0aBEzDeu0_Jh-CcZqCppl, 8 March 2022.
+[3] freeCodeCamp.org, https://youtu.be/gB1F9G0JXOo, 15 May 2022.
+[4] Gürkan Hasan Karaman, https://youtu.be/uJUzbYPQ68I, 30 October 2019.
+[5] Ayoub, https://youtu.be/-0vg5gopetE, 3 July 2019.
+[6] https://app.patika.dev/courses/unity-essentials/challenge-floor-lava
+[7] RedHeadGamingStudios (RGS), https://youtu.be/t-ZHycV4uhM, 1 July 2022.
+[8] Mazz VR, https://youtu.be/RYFG-tQ7bLw, 27 April 2022.
+[9] Unity, https://unity.com/download.
+[10] Unity, https://store.unity.com/?_ga=2.29651319.933725431.1665793409-1686887873.1664252640&_gac=1.229311086.1665846188.CjwKCAjwtKmaBhBMEiwAyINuwFz5CUGGcXMVMQYvYurRwsADd6efx8VhduGu7_qqmuPfMC4S4_I4JRoCox0QAvD_BwE#plans-individual.
+[11] Newstein Software Private Ltd., https://youtu.be/VH5JvFVwcdI, 23 July 2020.
+[12] Miyuki Yasuzawa, https://styly.cc/tips/unity-ui-operate/.
+[13] Bobsi Unity, https://youtu.be/fESM_UIg1rA, 15 July 2021.
+[14] N3K EN, https://youtube.com/playlist?list=PLLH3mUGkfFCVXrGLRxfhst7pffE9o2SQO, 22 October 2016.

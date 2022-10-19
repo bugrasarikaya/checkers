@@ -1,0 +1,11 @@
+A new 2D Unity project was created on Unity Hub.
+A video [1] about connection between Unity and GitHub, was watched.
+Another Unity video tutorial was found in YouTube [2].
+After watching first video, license issue for GitHub repository, was remembered and then a webpage [3] was read shortly for learning license issue but any license did not be added.
+After watching 2 videos [4] [5] for examining usage of GitHub with Unity, Unity project was moved into created local GitHub repository.
+Before pushing current project, "Warning: line endings will be changed from 'LF' to 'CRLF'." text was noticed on GitHub Desktop but it was ignored.
+[1] ka6an, https://youtu.be/zalgQq403ik, 25 June 2022.
+[2] ka6an, https://youtube.com/playlist?list=PLAP1GY1YwkrdiEsjnp9xXe810eq-s8jPP, 21 November 2021.
+[3] https://www.quora.com/I-want-to-put-my-game-code-on-Github-Is-there-a-license-to-prevent-the-whole-project-being-sold-while-still-allowing-people-to-use-parts
+[4] Brackeys, https://youtu.be/qpXxcvS-g3g, 13 August 2017.
+[5] Mobidictum Academy, https://youtu.be/mDXXW5SAIgI, 29 December 2021.
